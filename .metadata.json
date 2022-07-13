@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "BNPMIXcluster",
+    "oncran": true
+  }
+]
